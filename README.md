@@ -60,9 +60,9 @@ The number of epochs and input filename are optional. The default values are 100
 The program will read the data from the input file. The data will be stock symbols (not case sensitive) and each symbol will be separated by a new line.
 
 Example:
-    DUOL
-    BOWL
-    AAPL
+DUOL
+BOWL
+AAPL
 
 The program will open threads to handle this quickly.
 
